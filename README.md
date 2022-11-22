@@ -1,6 +1,6 @@
 
 
-![](/home/miquerinus/Downloads/Screenshot.png) 
+![imagem de template](/home/miquerinus/AreaGit/projetos/projRust/rust00/img/principal.png) 
 
 <a name="ancora"></a>
 
