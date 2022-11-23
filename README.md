@@ -1,6 +1,6 @@
 
 
-![imagem de template](/home/miquerinus/AreaGit/projetos/projRust/rust00/img/principal.png) 
+![img_template](https://github.com/miquerinus/the_guessing_game/blob/494b6387eb164bae40da92969ab1741ce1c1c495/img/principal.png) 
 
 <a name="ancora"></a>
 
